@@ -1,0 +1,6 @@
+My name is Anis Benallala, and I am a student in the Code213 Cyber Security
+program, currently building my foundations in networking, Linux, and
+programming. During this DevSecOps track I aim to master three skills:
+1. Disciplined Git workflows with clean, atomic commit history.
+2. Keeping secrets and credentials out of version control.
+3. Adding automated security checks to CI/CD pipelines.
