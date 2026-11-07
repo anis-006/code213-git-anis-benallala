@@ -1,0 +1,5 @@
+Secure Development Checklist
+1. Never commit passwords, API keys, or tokens.
+2. Review changes with git diff and git status before every commit.
+3. Use .gitignore to exclude sensitive and local files.
+4. Write clear commit messages describing the intent of each change.
